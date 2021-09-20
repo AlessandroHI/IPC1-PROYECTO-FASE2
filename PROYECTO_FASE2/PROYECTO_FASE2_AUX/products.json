@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "description": "Pizza Hawaiana con queso",
+        "cost": 40,
+        "price": 50,
+        "ingredients": [
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, {
+                "name": "Manzana",
+                "quantity": 1,
+                "units": "Unidades"
+            }, {
+                "name": "Pera",
+                "quantity": 1,
+                "units": "Unidades"
+            }, {
+                "name": "Agua",
+                "quantity": 1,
+                "units": "Unidades"
+            }
+        ]
+    },{
+        "id": 2,
+        "name": "Sandwich",
+        "description": "Sandwich de jamon con queso",
+        "cost": 40,
+        "price": 50,
+        "ingredients": [
+            {
+                "name": "Piña",
+                "quantity": 1,
+                "units": "Unidades"
+            }, {
+                "name": "Manzana",
+                "quantity": 1,
+                "units": "Unidades"
+            }, {
+                "name": "Pera",
+                "quantity": 1,
+                "units": "Unidades"
+            }, {
+                "name": "Agua",
+                "quantity": 1,
+                "units": "Unidades"
+            }
+        ]
+    }
+]

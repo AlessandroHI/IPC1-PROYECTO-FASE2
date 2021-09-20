@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1, 
+        "client": 1,
+        "date": "2020-06-13",
+        "products": [
+            {
+                "name": "Pizza",
+                "price": 50
+            }, {
+                "name": "Manzana",
+                "price": 50
+            }
+        ]
+    },
+	 {
+        "id": 2, 
+        "client": 2,
+        "date": "2020-06-13",
+        "products": [
+            {
+                "name": "Pera",
+                "price": 50
+            }, {
+                "name": "Casa",
+                "price": 50
+            }
+        ]
+    }
+]
